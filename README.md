@@ -59,7 +59,7 @@ This project was buit upon:
 
 -We are looking to add more features on the website 🔗
 
--PPT: 
+-PPT: https://docs.google.com/presentation/d/1hVVAQazP-XG4i0_nCquDjDf8iSGgUS1I/edit?usp=sharing&ouid=103576531847152133716&rtpof=true&sd=true
 
 
 
