@@ -56,7 +56,7 @@ This project was buit upon:
 
 **Updating Resources**
 
-1.In our future works we would like to add a PCOD/PCOS detector which will use a Machine Learning Model to identify if a user has a strong chance of having it based on the symptoms provided by the user
+1.In  we would like to add a PCOD/PCOS detector which will use a Machine Learning Model to identify if a user has a strong chance of having it based on the symptoms provided by the user
 
 2.Connecting a database so that the users upcoming period can be reflected unto the profile page for proving more personalized feature and adding a reminder feature so that the users can be notified for any kind of reminder they add to the profile.
 
