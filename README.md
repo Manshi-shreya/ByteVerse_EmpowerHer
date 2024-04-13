@@ -14,12 +14,19 @@ The hackathon project provides a comprehensive solution for women's menstrual he
 -Tailored exercise and diet recommendations for holistic well-being.
 
 **🤔Approach to problem statement**
+
 1.Firstly we will be designing a website that would be catering to almost all of the problems that a women has to face related to her menstrual health.
+
 2.The said website allows users to register themselves. As soon as the user lands on his/her profile they get to choose from various services which they prefer using for the time being.
+
 3.The user profile includes various features accessible on the profile which can be used.
+
 4.The features includes a Period Tracker which allows the user to enter her cyle duration and the date of her last period in result the user will get her ovulation date as well as the date of her period coming up in the next month.
+
 5.The second feature is that the user can refer to our diet and exrecise suggestions for problems like PreMnestrual Syndrome, IrregularPeriod and Polycystic Ovary Syndrome.
+
 6.The third feature our website provides is that the the user can access the nearest hospitals in thier locality as well as have a google map preview to reach there.
+
 7..Finally Implementing a user friendly interface of the entire website so that people with even little knowledge of internet browsing can easily walk through the website and enjoy it's services.
 
 **⚙️ Tech Stack**
