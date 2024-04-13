@@ -24,8 +24,11 @@ The hackathon project provides a comprehensive solution for women's menstrual he
 
 **⚙️ Tech Stack**
 This project was buit upon:
+ 
  **React.js** - React is a JavaScript library for building user interfaces. React is used to build single-page applications.
+ 
  **Google Map API** - The Google Maps API is one of those clever bits of Google technology that helps you take the power of Google Maps and put it directly on your own site.
+ 
  **FireBase** - Firebase offers a real-time database that syncs data across all clients in real-time. This makes it ideal for applications requiring live updates, such as chat apps or collaborative tools.
 
 **VisualWalkThrough**
