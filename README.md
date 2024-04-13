@@ -1,15 +1,18 @@
 **EmpowerHer -A Menstrual HealthCare Project for Women**
 The hackathon project provides a comprehensive solution for women's menstrual health, including a period tracker, nearby pharmacy and hospital locators, and personalized exercise and diet recommendations."
+
 **👋Why Join Us!**
 - The project prototype is a user-friendly web application designed to cater to women's menstrual health needs comprehensively.
 - It includes a seamless period tracker feature enabling users to monitor their menstrual cycles accurately.
 - Integrated with geolocation services, it offers convenient access to nearby pharmacies and hospitals, ensuring timely assistance in case of emergencies or medication needs.
 - Additionally, the application provides tailored exercise and diet recommendations to alleviate symptoms associated with various menstrual-related conditions, promoting holistic well-being.
+
 **🎯AIM**
 -User-friendly web app for comprehensive women's menstrual health.
 -Seamless period tracker for accurate cycle monitoring.
 -Geolocation integration for easy access to nearby pharmacies and hospitals.
 -Tailored exercise and diet recommendations for holistic well-being.
+
 **🤔Approach to problem statement**
 1.Firstly we will be designing a website that would be catering to almost all of the problems that a women has to face related to her menstrual health.
 2.The said website allows users to register themselves. As soon as the user lands on his/her profile they get to choose from various services which they prefer using for the time being.
@@ -18,11 +21,13 @@ The hackathon project provides a comprehensive solution for women's menstrual he
 5.The second feature is that the user can refer to our diet and exrecise suggestions for problems like PreMnestrual Syndrome, IrregularPeriod and Polycystic Ovary Syndrome.
 6.The third feature our website provides is that the the user can access the nearest hospitals in thier locality as well as have a google map preview to reach there.
 7..Finally Implementing a user friendly interface of the entire website so that people with even little knowledge of internet browsing can easily walk through the website and enjoy it's services.
+
 **⚙️ Tech Stack**
 This project was buit upon:
  **React.js** - React is a JavaScript library for building user interfaces. React is used to build single-page applications.
  **Google Map API** - The Google Maps API is one of those clever bits of Google technology that helps you take the power of Google Maps and put it directly on your own site.
  **FireBase** - Firebase offers a real-time database that syncs data across all clients in real-time. This makes it ideal for applications requiring live updates, such as chat apps or collaborative tools.
+
 **VisualWalkThrough**
 ![Home](https://github.com/sanaya56/ByteVerse_EmpowerHer/assets/102890717/42cb5dbf-bd26-4f17-a4fe-0ee5a3ab0fe7)
   
