@@ -39,6 +39,19 @@ This project was buit upon:
 ![NearH](https://github.com/sanaya56/ByteVerse_EmpowerHer/assets/102890717/4fe52949-9971-491e-ab13-8f1ce695ebb9)
 ![Info](https://github.com/sanaya56/ByteVerse_EmpowerHer/assets/102890717/adf57677-432f-4c4d-8ef5-0d6b8e46dbda)
 
+**🧰 Contributions**
+-Sakshi Kumari
+-Manshi Shreya
+-Sanya Kumari
+
+**Updating Resources**
+1.In our future works we would like to add a PCOD/PCOS detector which will use a Machine Learning Model to identify if a user has a strong chance of having it based on the symptoms provided by the user
+2.Connecting a database so that the users upcoming period can be reflected unto the profile page for proving more personalized feature and adding a reminder feature so that the users can be notified for any kind of reminder they add to the profile.
+
+**🖋️ Note :**
+-This repository started as a README file with all the information about this project.
+-We are looking to add more features on the website 🔗
+-PPT: 
 
 
 
