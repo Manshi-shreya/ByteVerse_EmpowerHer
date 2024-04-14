@@ -95,6 +95,10 @@ This project was buit upon:
 
 -PPT: https://docs.google.com/presentation/d/1hVVAQazP-XG4i0_nCquDjDf8iSGgUS1I/edit?usp=sharing&ouid=103576531847152133716&rtpof=true&sd=true
 
+-Deployed Website Link-  https://period-f562a.web.app/
+
+-Video Pitch Link - 
+
 
 
  
