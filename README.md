@@ -70,6 +70,7 @@ This project was buit upon:
 2. In the project directory, you can run:
 
    npm start
+   
    Runs the app in the development mode.
 
 **Dependencies**
