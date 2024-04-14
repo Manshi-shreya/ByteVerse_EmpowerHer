@@ -1,13 +1,17 @@
 **EmpowerHer -A Menstrual HealthCare Project for Women**
 The hackathon project provides a comprehensive solution for women's menstrual health, including a period tracker, nearby pharmacy and hospital locators, and personalized exercise and diet recommendations."
 
-**👋Why Join Us!**
+- PPT: https://docs.google.com/presentation/d/1hVVAQazP-XG4i0_nCquDjDf8iSGgUS1I/edit?usp=sharing&ouid=103576531847152133716&rtpof=true&sd=true
+
+-Video Pitch Link - 
+
+**🎯Aim**
 - The project prototype is a user-friendly web application designed to cater to women's menstrual health needs comprehensively.
 - It includes a seamless period tracker feature enabling users to monitor their menstrual cycles accurately.
 - Integrated with geolocation services, it offers convenient access to nearby pharmacies and hospitals, ensuring timely assistance in case of emergencies or medication needs.
 - Additionally, the application provides tailored exercise and diet recommendations to alleviate symptoms associated with various menstrual-related conditions, promoting holistic well-being.
 
-**🎯AIM**
+**Use Case**
 -User-friendly web app for comprehensive women's menstrual health.
 -Seamless period tracker for accurate cycle monitoring.
 -Geolocation integration for easy access to nearby pharmacies and hospitals.
@@ -32,7 +36,7 @@ The hackathon project provides a comprehensive solution for women's menstrual he
 **⚙️ Tech Stack**
 This project was buit upon:
  
- **React.js** - React is a JavaScript library for building user interfaces. React is used to build single-page applications.
+ **React.Js** - React is a JavaScript library for building user interfaces. React is used to build single-page applications.
  
  **Google Map API** - The Google Maps API is one of those clever bits of Google technology that helps you take the power of Google Maps and put it directly on your own site.
  
@@ -65,9 +69,15 @@ This project was buit upon:
 
 **Installation Steps**
 
-1. Getting Started with Create React App
+1. Clone the github repository
+
+   git clone "https://github.com/sanaya56/ByteVerse_EmpowerHer"
 
 2. In the project directory, you can run:
+
+   npm i
+
+3. Now for starting
 
    npm start
    
@@ -81,21 +91,11 @@ This project was buit upon:
 
 -axios
 
--react-calendar
-
 -react-moment
 
 -firebase
 
-**🖋️ Note :**
 
--This repository started as a README file with all the information about this project.
-
--We are looking to add more features on the website 🔗
-
--PPT: https://docs.google.com/presentation/d/1hVVAQazP-XG4i0_nCquDjDf8iSGgUS1I/edit?usp=sharing&ouid=103576531847152133716&rtpof=true&sd=true
-
--Video Pitch Link - 
 
 
 
