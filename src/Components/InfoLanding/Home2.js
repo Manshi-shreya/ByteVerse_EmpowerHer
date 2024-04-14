@@ -46,6 +46,10 @@ const Home2 = () => {
             ))}
           </div>
 
+          
+          
+          
+          
           <h3>Exercise Video URLs:</h3>
           <div className="video-container">
             {selectedInfo.ExerciseVideoURLs.map((url, index) => (
