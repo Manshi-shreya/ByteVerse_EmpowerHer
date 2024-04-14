@@ -3,7 +3,7 @@ The hackathon project provides a comprehensive solution for women's menstrual he
 
 - PPT: https://docs.google.com/presentation/d/1hVVAQazP-XG4i0_nCquDjDf8iSGgUS1I/edit?usp=sharing&ouid=103576531847152133716&rtpof=true&sd=true
 
--Video Pitch Link - 
+-Video Pitch Link - https://youtu.be/yQaKW7rT0pw
 
 **🎯Aim**
 - The project prototype is a user-friendly web application designed to cater to women's menstrual health needs comprehensively.
