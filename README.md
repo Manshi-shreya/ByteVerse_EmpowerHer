@@ -63,6 +63,29 @@ This project was buit upon:
 
 2.Connecting a database so that the users upcoming period can be reflected unto the profile page for proving more personalized feature and adding a reminder feature so that the users can be notified for any kind of reminder they add to the profile.
 
+**Installation Steps**
+
+1. Getting Started with Create React App
+
+2. In the project directory, you can run:
+
+   npm start
+   Runs the app in the development mode.
+
+**Dependencies**
+
+-google-map-react
+
+-react-calendar
+
+-axios
+
+-react-calendar
+
+-react-moment
+
+-firebase
+
 **🖋️ Note :**
 
 -This repository started as a README file with all the information about this project.
