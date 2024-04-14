@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from 'firebase/auth'
 const firebaseConfig = {
-    apiKey: "AIzaSyAANPkXtVq8FfUmn0JRfuN9CJ9CA1rLWU0",
+    apiKey: "YOUR_API_KEY",
     authDomain: "period-f562a.firebaseapp.com",
     projectId: "period-f562a",
     storageBucket: "period-f562a.appspot.com",
