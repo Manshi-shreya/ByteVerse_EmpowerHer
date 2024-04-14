@@ -85,15 +85,17 @@ This project was buit upon:
 
 **Dependencies**
 
--google-map-react
-
--react-calendar
-
--axios
-
--react-moment
-
--firebase
+"@emotion/react": "^11.11.4",
+"@emotion/styled": "^11.11.5",
+"@mui/icons-material": "^5.15.15",
+"@mui/material": "^5.15.15",
+"axios": "^1.6.8",
+"firebase": "^10.11.0",
+"google-map-react": "^2.2.1",
+"moment": "^2.30.1",
+"react-calendar": "^4.8.0",
+"react-icons": "^5.0.1",
+"react-moment": "^1.1.3",
 
 
 
